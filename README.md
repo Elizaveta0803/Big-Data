@@ -12,3 +12,4 @@
 - Отчет [пр_05-2](practice/otcht-05-02.pdf)
 
 - ДЗ [дз_01](practice/dz-01.pdf)
+- ДЗ [дз_02](practice/ДЗ-01.pdf)
